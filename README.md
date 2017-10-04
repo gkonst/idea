@@ -1,2 +1,0 @@
-# idea
-Intellij idea settings
