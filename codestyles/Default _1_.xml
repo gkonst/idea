@@ -1,0 +1,21 @@
+<code_scheme name="Default (1)">
+  <Properties>
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
+  <SqlCodeStyleSettings>
+    <option name="IDENTIFIER_CASE" value="1" />
+  </SqlCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </TypeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="Twig">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="0" />
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
+      <option name="TAB_SIZE" value="1" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

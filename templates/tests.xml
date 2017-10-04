@@ -1,0 +1,7 @@
+<templateSet group="tests">
+  <template name="dyn" value="@TestFactory&#10;Stream&lt;DynamicTest&gt; $END$Should() {&#10;    return Stream.of(&#10;            // given&#10;            testData(&quot;description&quot;,)                &#10;    ).map(data -&gt; dynamicTest(data.description, () -&gt; {&#10;        // when&#10;        &#10;        // then&#10;        &#10;    }));&#10;}" description="Dynamic JUnit5 test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
