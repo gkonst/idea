@@ -10,6 +10,10 @@
     </injection>
     <injection language="spring-resource-reference" injector-id="java">
       <display-name>ImmutableMap.of (com.google.common.collect)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("of").withParameters("java.lang.Object", "java.lang.Object", "java.lang.Object", "java.lang.Object").definedInClass("com.google.common.collect.ImmutableMap"))]]></place>
+    </injection>
+    <injection language="spring-resource-reference" injector-id="java">
+      <display-name>ImmutableMap.of (com.google.common.collect)</display-name>
       <place><![CDATA[psiParameter().ofMethod(3, psiMethod().withName("of").withParameters("java.lang.Object", "java.lang.Object", "java.lang.Object", "java.lang.Object").definedInClass("com.google.common.collect.ImmutableMap"))]]></place>
     </injection>
     <injection language="JPAQL" injector-id="java">
