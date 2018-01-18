@@ -5,7 +5,22 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/chai-as-promised" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon-chai" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
