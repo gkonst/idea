@@ -5,10 +5,6 @@
       <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("fromFilesInClassPathDir").withParameters("java.lang.String").definedInClass("com.sfbox.server.example.BaseExpertExample"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("expertCalculation").withParameters("java.lang.String", "java.lang.String", "java.util.Map").definedInClass("com.sfbox.server.example.BaseExpertExample"))]]></place>
     </injection>
-    <injection language="spring-resource-reference" injector-id="java">
-      <display-name>ImmutableMap.of (com.google.common.collect)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("of").withParameters("java.lang.Object", "java.lang.Object").definedInClass("com.google.common.collect.ImmutableMap"))]]></place>
-    </injection>
     <injection language="JPAQL" injector-id="java">
       <display-name>Query (org.springframework.data.jpa.repository)</display-name>
       <place><![CDATA[psiMethod().withName("countQuery").withParameters().definedInClass("org.springframework.data.jpa.repository.Query")]]></place>
