@@ -5,37 +5,16 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.rest</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.ml</mask>
-      <mask>*.m</mask>
-      <mask>*x</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>s</mask>
-      <mask>sp</mask>
-      <mask>spe</mask>
-      <mask>spec.</mask>
-      <mask>spec.js</mask>
-      <mask>*spec.js</mask>
-      <mask>*.spec.js</mask>
-      <mask>*.feature</mask>
-      <mask>*.java</mask>
-      <mask>*.export.feature</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.feature" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
