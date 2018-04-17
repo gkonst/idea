@@ -14,5 +14,9 @@
       <display-name>entry</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("entry")).withNamespace(string().equalTo("http://java.sun.com/dtd/properties.dtd"))]]></place>
     </injection>
+    <injection language="Latex" injector-id="xml">
+      <display-name>ng-katex/@equation</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("equation")).withParent(xmlTag().withLocalName(string().equalTo("ng-katex")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
