@@ -54,22 +54,12 @@
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true">
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-11.2.0.4.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-11.2.0.4.jar</url>
-        </library>
-      </artifact>
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" version="42.2.2" />
