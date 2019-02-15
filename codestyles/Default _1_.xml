@@ -4,6 +4,7 @@
   </Properties>
   <SqlCodeStyleSettings version="2">
     <option name="ALIAS_CASE" value="4" />
+    <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="3" />
     <option name="IDENTIFIER_CASE" value="1" />
     <option name="SET_EL_WRAP" value="0" />
