@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="EDB@Snapshot" uuid="32e5af03-5097-4696-8e94-3a7f5d385a69">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://newport-db.snapshot.dev.cc.oneplatform.build:5432/NDB02_AWS</jdbc-url>
+    </data-source>
+  </component>
+</application>
