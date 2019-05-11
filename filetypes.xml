@@ -10,8 +10,9 @@
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="kal" type="PLAIN_TEXT" />
-      <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="abi" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="pks" type="SQL" />
       <mapping ext="pkb" type="SQL" />
