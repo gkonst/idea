@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="bastion-cc" id="2753a41e-4e80-4f42-ae03-df77d11cd7b9" keyPath="$USER_HOME$/.ssh/id_epam_rsa" nameFormat="DESCRIPTIVE" />
+    </configs>
+  </component>
+</application>
