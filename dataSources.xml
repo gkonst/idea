@@ -6,5 +6,17 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://newport-db.snapshot.dev.cc.oneplatform.build:5432/NDB02_AWS</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="EDB@Stable" uuid="2fcec7e6-0877-4fd8-a91f-0eaf2ccf4c92">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://newport-db.stable.dev.cc.oneplatform.build:5432/NDB02_AWS</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="EDB@Prod" uuid="89f6e083-7968-41e4-8de7-9de90c9b165e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://newport-db.prod.cc.oneplatform.build:5432/NDB02_AWS</jdbc-url>
+    </data-source>
   </component>
 </application>
