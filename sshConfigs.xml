@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="bastion-cc-prod" id="2753a41e-4e80-4f42-ae03-df77d11cd7b9" port="22" nameFormat="DESCRIPTIVE" username="konstantin.grigoriev" />
-      <sshConfig authType="OPEN_SSH" host="bastion-cc" id="56ed2a74-f654-4dcf-9a25-25ae7bbef659" port="22" nameFormat="DESCRIPTIVE" username="konstantin.grigoriev" />
+      <sshConfig authType="OPEN_SSH" host="bastion-cc" id="56ed2a74-f654-4dcf-9a25-25ae7bbef659" port="22" nameFormat="DESCRIPTIVE" username="konstantin.grigoriev@clarivate.com" />
     </configs>
   </component>
 </application>
