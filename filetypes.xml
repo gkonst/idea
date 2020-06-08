@@ -8,6 +8,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="error-handler" type="PLAIN_TEXT" />
+      <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping ext="kal" type="PLAIN_TEXT" />
       <mapping ext="abi" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
