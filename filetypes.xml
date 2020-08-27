@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="mapping" type="JSON" />
-      <mapping ext="j2" type="Jinja2" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
@@ -33,6 +32,7 @@
       <removed_mapping ext="j2" approved="true" type="YAML_EX" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping pattern="clv-service-tunnel" type="Bash" />
     </extensionMap>
   </component>
