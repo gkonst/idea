@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="mapping" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -20,20 +20,17 @@
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="kal" type="PLAIN_TEXT" />
       <mapping ext="ddef" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="pkb" type="SQL" />
       <mapping ext="pks" type="SQL" />
-      <removed_mapping pattern="Jenkinsfile" approved="true" type="Groovy" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="j2" approved="true" type="YAML_EX" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="j2" approved="true" type="YAML_EX" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Jenkinsfile" approved="true" type="Groovy" />
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="clv-service-tunnel" type="Bash" />
     </extensionMap>
