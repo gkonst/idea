@@ -18,5 +18,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://newport-db.prod.cc.oneplatform.build:5432/NDB02_AWS</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="EDB@Snapshot [np-dev]" uuid="2c3fb526-e0c8-4109-893f-a27998dff94d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://newport-db.snapshot.dev.cc.oneplatform.build:5432/NDB02_AWS</jdbc-url>
+    </data-source>
   </component>
 </application>
