@@ -2,11 +2,12 @@
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
-  <SqlCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="3" />
+  <SqlCodeStyleSettings version="6">
+    <option name="KEYWORD_CASE" value="2" />
     <option name="IDENTIFIER_CASE" value="1" />
+    <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
@@ -33,9 +34,6 @@
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </TypeScriptCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="Twig">
     <indentOptions>
       <option name="INDENT_SIZE" value="0" />
