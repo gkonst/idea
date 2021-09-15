@@ -3,5 +3,6 @@
     <file url="file://$USER_HOME$/projects/tri-lsn/newport/extractors/np-extractor-gpt/src/main/resources/templates/gpt.json" />
     <file url="file://$USER_HOME$/projects/tri-lsn/newport/extractors/np-extractor-regulatory-filings/src/main/resources/templates/regulatoryFilings.json" />
     <file url="file://$USER_HOME$/projects/tri-lsn/newport/extractors/np-extractor-us-patents-challenges-approvals-commentaries/src/main/resources/templates/usPatentsChallengesApprovalsCommentaries.json" />
+    <file url="file://$USER_HOME$/projects/tri-lsn/newport/services/np-do-alerts/src/alert_type/content_updates.hbs" />
   </component>
 </application>
