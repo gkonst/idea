@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/projects/tri-lsn/newport/extractors" />
+        <option value="$USER_HOME$/projects/tri-lsn/newport/loaders" />
       </list>
     </option>
   </component>
