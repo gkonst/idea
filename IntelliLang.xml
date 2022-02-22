@@ -10,6 +10,10 @@
       <place><![CDATA[psiMethod().withName("countQuery").withParameters().definedInClass("org.springframework.data.jpa.repository.Query")]]></place>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.jpa.repository.Query")]]></place>
     </injection>
+    <injection language="PostgreSQL" injector-id="java">
+      <display-name>Query.value (org.springframework.data.r2dbc.repository)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.r2dbc.repository.Query")]]></place>
+    </injection>
     <injection language="PostgreSQL" injector-id="xml">
       <display-name>entry</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("entry")).withNamespace(string().equalTo("http://java.sun.com/dtd/properties.dtd"))]]></place>
