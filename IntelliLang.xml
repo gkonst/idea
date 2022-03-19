@@ -14,6 +14,10 @@
       <display-name>Query.value (org.springframework.data.r2dbc.repository)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.r2dbc.repository.Query")]]></place>
     </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>StructuredDataEncoder.StructuredDataEncoder (org.web3j.crypto)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StructuredDataEncoder").withParameters("java.lang.String").definedInClass("org.web3j.crypto.StructuredDataEncoder"))]]></place>
+    </injection>
     <injection language="PostgreSQL" injector-id="xml">
       <display-name>entry</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("entry")).withNamespace(string().equalTo("http://java.sun.com/dtd/properties.dtd"))]]></place>
