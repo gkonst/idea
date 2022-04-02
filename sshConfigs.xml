@@ -3,6 +3,8 @@
     <configs>
       <sshConfig authType="OPEN_SSH" host="bastion-cc-prod" id="2753a41e-4e80-4f42-ae03-df77d11cd7b9" port="22" nameFormat="DESCRIPTIVE" username="konstantin.grigoriev@clarivate.com" />
       <sshConfig authType="OPEN_SSH" host="bastion-cc" id="56ed2a74-f654-4dcf-9a25-25ae7bbef659" port="22" nameFormat="DESCRIPTIVE" username="konstantin.grigoriev@clarivate.com" />
+      <sshConfig host="ec2-3-122-113-199.eu-central-1.compute.amazonaws.com" id="95e03132-2549-4651-b664-8d8abfb703f1" keyPath="$USER_HOME$/.ssh/tip_kp.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig host="supernova-server.sunday.games" id="b33a0ba0-679c-40c9-8b7f-2987a7d176f0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="gkonst" />
     </configs>
   </component>
 </application>
