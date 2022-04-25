@@ -1,5 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.9.xsd" location="$USER_HOME$/.cache/JetBrains/IntelliJIdea2022.1/extResources/68080301_dbchangelog-4.9.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd" location="$USER_HOME$/.cache/JetBrains/IntelliJIdea2022.1/extResources/99f6323_dbchangelog-ext.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/pro/liquibase-pro-4.9.xsd" location="$USER_HOME$/.cache/JetBrains/IntelliJIdea2022.1/extResources/539ffb1b_liquibase-pro-4.9.xsd" />
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/1524e8b2_configuration_1_3.dtd" />
     <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea14/system/extResources/631eabe6_XMLSchema-instance.xml" />
   </component>
